@@ -6,7 +6,11 @@
 
 **FinSight AI** is a professional-grade financial news analysis tool that leverages state-of-the-art LLMs to perform semantic research across multiple web articles. Designed for investors, researchers, and analysts, it transforms raw URLs into a searchable knowledge base.
 
-![FinSight AI Dashboard](finsight_ai_main_page_1773418745446.png)
+## 📸 Output Screenshots
+
+| Landing Page | Query Result |
+|:---:|:---:|
+| ![Landing Page](Output%20Dashboard/Screenshot%202026-03-13%20231322.png) | ![Query Result](Output%20Dashboard/Screenshot%202026-03-13%20231446.png) |
 
 ---
 
