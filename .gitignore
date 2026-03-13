@@ -1,0 +1,22 @@
+# Environment & Secrets
+.env
+
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# FAISS Index (regenerated at runtime)
+faiss_index/
+*.pkl
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
