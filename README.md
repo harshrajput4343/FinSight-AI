@@ -126,4 +126,4 @@ streamlit run main.py
 
 ---
 
-*Built with ❤️ for the Financial Research Community.*
+*Built by Harsh Kumar IIIT SriCity , Heymyselfharsh@gmail.com.*
